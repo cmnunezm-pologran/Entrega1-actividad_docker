@@ -1,0 +1,6 @@
+/actividad_docker
+├── init.sql
+└── /app
+    ├── Dockerfile
+    ├── package.json
+    └── index.js
